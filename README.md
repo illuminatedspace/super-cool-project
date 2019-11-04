@@ -10,4 +10,9 @@ Here's how you install it
 
 # Todo:
 
-- Push this to github
+- [x] Push this to github
+- [ ] git add patch
+- [ ] git rebase -i
+- [ ] branch
+- [ ] merge branch
+- [ ] visual example
