@@ -17,4 +17,5 @@ Link about sha1 -> https://en.wikipedia.org/wiki/SHA-1
 
 # How it works
 
-Well to start you do th...
+Well to start you do the thing. And then it's done.
+
