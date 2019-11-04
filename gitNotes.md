@@ -12,3 +12,5 @@ inputA -> encryptionFunction(inputA) -> encryptedDataA
 
 Encryption should be reversable
 encryptedDataA -> decryptionFunction(encryptedDataA) -> inputA
+
+Link about sha1 -> https://en.wikipedia.org/wiki/SHA-1
